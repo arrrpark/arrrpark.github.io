@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Configuration
+title: Swift
 nav_order: 2
 ---
 
