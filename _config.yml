@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 모바일 개발 알아가기
+title: Mobile dev
 description: A Jekyll theme for documentation
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://arrrpark.github.io" # the base hostname & protocol for your site, e.g. http://example.com
